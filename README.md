@@ -18,4 +18,4 @@ Enter your choice (1-4):
 
 1| ☑ task 1
 
-2| ☐ task 2
+2| 🪹 task 2
