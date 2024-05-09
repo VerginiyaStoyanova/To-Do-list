@@ -8,8 +8,8 @@ The purpose of this app is to practice Python and GitHub skills.
 With this app, you can record your tasks and check them off when they're done.
 
 **----- TO-DO LIST -----**
-1. Add Task
-2. Show Tasks
+\1. Add Task
+\2. Show Tasks
 3. Mark Task as Done
 4. Exit
 Enter your choice (1-4):
