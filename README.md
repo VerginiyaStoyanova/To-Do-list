@@ -15,5 +15,5 @@ With this app, you can record your tasks and check them off when they're done.
 Enter your choice (1-4):
 
 **----- TASKS -----**
-1.| ☑ task 1
-2.| ☐ task 2
+1\| ☑ task 1
+2\| ☐ task 2
