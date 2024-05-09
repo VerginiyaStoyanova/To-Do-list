@@ -16,6 +16,6 @@ Enter your choice (1-4):
 
 **----- TASKS -----**
 
-1\| ☑ task 1
+1| ☑ task 1
 
-2\| ☐ task 2
+2| ☐ task 2
