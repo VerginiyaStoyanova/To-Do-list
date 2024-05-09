@@ -20,9 +20,9 @@ def show_tasks(to_do_tasks):
     reset_color = "\033[0m"  # ANSI escape code to reset color to default
     print('\n~~~~~ TASKS ~~~~~')
     for index, task in enumerate(to_do_tasks):
-        green_check_mark = green_color + "\u2713" + reset_color
-        red_circle = red_color + '\u25EF' + reset_color
-        status = green_check_mark if task['done'] else red_circle
+        green_check_mark = green_color + "\u2611" + reset_color
+        red_empty_box = red_color + '\u2610' + reset_color
+        status = green_check_mark if task['done'] else red_empty_box
         print(f"{index + 1}| {status} {task['task']}")
 
 
