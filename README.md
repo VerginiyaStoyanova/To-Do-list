@@ -1,5 +1,5 @@
-# To-Do-list
-📝 To-Do list is a SoftUni project by our teacher Mario Zahariev.
+# To-Do-List
+📝 To-Do List is a SoftUni project by our teacher Mario Zahariev.
 # Purpose
 The purpose of this app is to practice Python and GitHub skills.
 # About the app
